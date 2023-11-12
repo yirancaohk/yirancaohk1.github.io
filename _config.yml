@@ -1,17 +1,20 @@
 # Basic Information 
 title: Yiran Cao
-position: Research Fellow
-affiliation: Lingnan University
-affiliation_link: https://www.ln.edu.hk/econ/en/article/Dr-CAO-Yiran-Carol/15/3752/
-email: yirancao@ln.hk
-address: 8 Castle Peak Road, Tuen Mun, New Territories, Hong Kong
-
+position: Ph.D. Candidate
+affiliation: Université Paris-Saclay
+subaffiliation: Spin-Ion Technologies 
+affiliation_link: https://www.universite-paris-saclay.fr/
+subaffiliation_link: https://www.spin-ion.com/
+affiliation_logo: ./assets/img/spinion.svg
+email: song.chen (at) spin-ion.com
+email2: song.chen (at) universite-paris-saclay.fr
+address: 10 Bd Thomas Gobert, 91120 Palaiseau
+address_link: https://www.google.fr/maps/place/Spin-Ion+Technologies/@48.7124352,2.194429,17z/data=!3m2!4b1!5s0x47e678bdc29075f7:0xbce23cefe16f4791!4m6!3m5!1s0x47e678bdc3c95555:0xe09ceff0db3725ab!8m2!3d48.7124317!4d2.1970093!16s%2Fg%2F11r4m02q4g?entry=ttu
 
 # Search Engine Optimization (SEO)
-keywords: Yiran Cao, Cao Yiran, yirancao, caoyiran
+keywords: song chen, chen song, songchen, chensong
 canonical: https://minimal-light-theme.yliu.me/
-description: Yiran Cao is a research fellow of the Department of Economics at Lingnan University. She obtained her Ph.D. in Economics from Lingnan University in 2022. Her main research area is Industrial Organization.
-
+description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -20,12 +23,12 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar:
+google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
 cv_link: 
-github_link: https://github.com/yirancaohk/
-linkedin: https://www.linkedin.com/in/yiran-c-a3767a14b/
+github_link: https://github.com/song-chen1/
+linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
 twitter: 
-researchgate: 
+researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
 avatar: ./assets/img/avatar.jpg
