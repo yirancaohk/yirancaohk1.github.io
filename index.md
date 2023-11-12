@@ -10,7 +10,6 @@ Welcome! I am research fellow of the Department of Economics at Lingnan Universi
 
 I am on the 2023-2024 academic job market.
 
-{% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
 
