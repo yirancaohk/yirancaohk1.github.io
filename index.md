@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Welcome! I am research fellow of the Department of Economics at Lingnan University. I obtained my Ph.D. in Economics from Lingnan University in 2022. My fields of interest is Industrial Organization and competition policy. 
+Welcome! I am research fellow of the Department of Economics at Lingnan University. I obtained my Ph.D. in Economics from Lingnan University in 2022. My fields of interest is industrial organization and competition policy. 
 
 I am on the 2023-2024 academic job market.
 
